@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginput nomor handphone yang tidak sesuai length</description>
+   <name>mTix - Login Negatif(1)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c4843ae-ffc2-4e8a-9f69-20a604b88f55</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ganti Lokasi Bioskop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a07d9cc4-358f-4c04-8622-28cb26eebc49</testCaseGuid>
+</TestCaseEntity>

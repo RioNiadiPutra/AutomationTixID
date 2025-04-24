@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Lokasi Bioskop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49196cc0-d61c-49c9-ab54-ea4031e26c50</testCaseGuid>
+</TestCaseEntity>

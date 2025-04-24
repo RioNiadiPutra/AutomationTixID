@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginput semua field dengan prosedur yang sudah ditentukan dan benar</description>
+   <name>TixID - Daftar Akun Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>244f523f-bd22-4016-87f5-b1ba1e4b32cc</testCaseGuid>
+</TestCaseEntity>

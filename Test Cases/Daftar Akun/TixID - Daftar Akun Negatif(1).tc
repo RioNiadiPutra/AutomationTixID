@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tidak meng-input nama lengkap</description>
+   <name>TixID - Daftar Akun Negatif(1)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa1c5a45-a941-42f3-96d0-d83affd6b95a</testCaseGuid>
+</TestCaseEntity>

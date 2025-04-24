@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pembelian Tiket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>027ea7fa-5dfe-4bbc-97a7-0a9807947cab</testCaseGuid>
+</TestCaseEntity>
